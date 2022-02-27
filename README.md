@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Wordle-Python-Base
-A basic version of the popular word guessing game wordle!
-=======
 # Python Wordle
 This is a python implementation of the popular word guessing game 
 Wordle. It uses a predefined list of words from a dictionary, generates
@@ -39,4 +35,3 @@ These scripts will be modified to include:
 - a multiplayer functionality where players all try to guess the
 word the fastest
 - a module to allow integration to web-based projects
->>>>>>> d0de7ac (inital commit)
