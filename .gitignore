@@ -1,0 +1,2 @@
+# temporarily ignore gui implementation since its incomplete
+/src/WindowProc.py
